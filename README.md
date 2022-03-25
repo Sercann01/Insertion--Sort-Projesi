@@ -14,7 +14,7 @@ O(n)
 
 # 3)
 # Time complexity :
-# 1) Average Case : O(n) # 2) Worst Case : O(n^2) # 3) Best Case : O (n)
+ 1) Average Case : O(n)  2) Worst Case : O(n^2)  3) Best Case : O (n)
 
 # 4) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
